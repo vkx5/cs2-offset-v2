@@ -7075,23 +7075,6 @@
           "SYNC_WAIT_FOR_COMPLETION": 0
         },
         "type": "uint32"
-      },
-      "__Ļ_": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_v_Ļ_": {
-        "alignment": 46,
-        "members": {
-          "": 0
-        },
-        "type": "unknown"
-      },
-      "_ޓĻ_": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
       }
     }
   }
