@@ -6551,56 +6551,6 @@
         ],
         "parent": null
       },
-      "PARTICLE_SEQUENCE_CROP_OVERRIDE_DEFAULT": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_BIAS_TYPE_STANDARD": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_INPUT_MODE_CLAMPED": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_MAP_TYPE_DIRECT": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_NOISE_MODIFIER_NONE": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_NOISE_TURB_NONE": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_NOISE_TYPE_PERLIN": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_RANDOM_MODE_CONSTANT": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_ROUND_TYPE_NEAREST": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_TYPE_LITERAL": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
       "PhysicsRagdollPose_t": {
         "fields": {
           "m_Transforms": 8,
@@ -6659,11 +6609,6 @@
             "type": "Unknown"
           }
         ],
-        "parent": null
-      },
-      "SPRITECARD_TEXTURE_PP_SCALE_NONE": {
-        "fields": {},
-        "metadata": [],
         "parent": null
       },
       "SellbackPurchaseEntry_t": {
@@ -6754,11 +6699,6 @@
         "fields": {
           "m_weaponPurchases": 8
         },
-        "metadata": [],
-        "parent": null
-      },
-      "_": {
-        "fields": {},
         "metadata": [],
         "parent": null
       },
