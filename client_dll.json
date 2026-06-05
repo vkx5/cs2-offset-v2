@@ -1,6 +1,11 @@
 {
   "client.dll": {
     "classes": {
+      "83____": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
       "ActiveModelConfig_t": {
         "fields": {
           "m_AssociatedEntities": 64,
@@ -6536,6 +6541,11 @@
         "metadata": [],
         "parent": null
       },
+      "K_____________": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
       "OutflowWithRequirements_t": {
         "fields": {
           "m_Connection": 0,
@@ -6549,6 +6559,41 @@
             "type": "Unknown"
           }
         ],
+        "parent": null
+      },
+      "PARTICLE_COLOR_BLEND_MULTIPLY": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_INPUT_MODE_CLAMPED": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_MAP_TYPE_DIRECT": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_NOISE_TYPE_PERLIN": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_RANDOM_MODE_CONSTANT": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_ROUND_TYPE_NEAREST": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PVEC_TYPE_LITERAL_COLOR": {
+        "fields": {},
+        "metadata": [],
         "parent": null
       },
       "PhysicsRagdollPose_t": {
@@ -6699,6 +6744,26 @@
         "fields": {
           "m_weaponPurchases": 8
         },
+        "metadata": [],
+        "parent": null
+      },
+      "_": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "_P____": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "________________________________________________________________________Iw__": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "__oX__": {
+        "fields": {},
         "metadata": [],
         "parent": null
       },
@@ -6927,6 +6992,11 @@
           "origin": 12,
           "scale": 8
         },
+        "metadata": [],
+        "parent": null
+      },
+      "ϗx__": {
+        "fields": {},
         "metadata": [],
         "parent": null
       }
